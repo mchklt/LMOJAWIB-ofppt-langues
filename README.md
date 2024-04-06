@@ -1,4 +1,4 @@
-Usage: python script.py <url>
+Usage: python script.py 'url'
 
 e.g: 
 ```bash
