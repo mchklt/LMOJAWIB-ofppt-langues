@@ -24,4 +24,7 @@ si bien qu'
 de ce fait
 c'est pour ça que
 ```
-**Attain 100% completion progress in frensh B2 level for just $7. Support our efforts with the price of a coffee.**
+
+## Note
+
+**you Attain 100% completion progress in frensh B2 level for just $7. Support our efforts with the price of a coffee.**
