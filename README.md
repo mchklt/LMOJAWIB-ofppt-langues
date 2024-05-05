@@ -1,3 +1,5 @@
+![image](https://github.com/mchklt/LMOJAWIB-ofppt-langues/assets/53612008/6bfdcf21-f35a-43c0-a7ee-7f645816db58)
+
 Usage: python script.py 'url'
 
 e.g: 
@@ -22,3 +24,4 @@ si bien qu'
 de ce fait
 c'est pour ça que
 ```
+**Attain 100% completion progress in frensh B2 level for just $7. Support our efforts with the price of a coffee.**
