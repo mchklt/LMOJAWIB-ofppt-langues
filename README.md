@@ -27,4 +27,4 @@ c'est pour ça que
 
 ## Note
 
-**you Attain 100% completion progress in frensh B2 level for just $7. Support our efforts with the price of a coffee.**
+**You attain 100% completion progress in frensh B2 level for just $7. Support our efforts with the price of a coffee. DM @[mchklt](https://web.facebook.com/mchklt.m001x)**
